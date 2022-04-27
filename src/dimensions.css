@@ -1,0 +1,18 @@
+
+/* Dimensions */
+@value w0: 0px;
+@value w1: 1px;
+@value w2: 2px;
+@value w3: 3px;
+@value w4: 0.25rem; /* 4px */
+@value w8: 0.5rem; /* 8px */
+@value w16: 1rem; /* 16px */
+@value w32: 2rem; /* 32px */
+
+@value w64: 4rem; /* 64px */
+
+@value w128: 8rem; /* 128px */
+
+@value w256: 16rem; /* 256px */
+
+@value w512: 32rem; /* 512px */

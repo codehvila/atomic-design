@@ -1,0 +1,21 @@
+@value colors: "../colors.css";
+@value placeholder, primary, secondary, accent from colors;
+
+.Placeholder {
+  background-color: placeholder; /* rgba(194, 175, 194, 0.7); */
+  display: inline-block;
+  width: var(--width);
+  height: var(--height);
+  margin: 0 0.5rem 0.5rem 0;
+  cursor: wait;
+}
+
+.Primary {
+  background-color: primary;
+}
+.Secondary {
+  background-color: secondary;
+}
+.Accent {
+  background-color: accent;
+}

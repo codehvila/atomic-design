@@ -1,0 +1,15 @@
+
+/* Colors */
+@value primary: rgba(244, 244, 244, 0.9); /* #7854f4; rgba(255, 128, 128, 0.7); #46318e #7854f4 */
+@value secondary: rgba(44, 44, 44, 0.9);/* #7c3794; rgba(128, 128, 255, 0.7);  7c3794 */
+@value accent: rgba(255, 128, 255, 0.7);
+@value success: rgba(255, 128, 255, 0.7);
+@value danger: rgba(255, 128, 255, 0.7);
+@value warning: rgba(255, 128, 0, 0.7);
+@value info: rgba(255, 128, 255, 0.7);
+@value light: rgba(255, 128, 255, 0.7);
+@value dark: rgba(255, 128, 255, 0.7);
+@value disabled: rgba(255, 128, 255, 0.3);
+@value text: rgba(148, 148, 148, 1);
+@value placeholder: rgba(224, 224, 224, 0.7);
+
